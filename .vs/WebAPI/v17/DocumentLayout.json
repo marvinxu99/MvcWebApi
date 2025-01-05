@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:51:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApi\\appsettings.json",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\appsettings.json",
+              "RelativeToolTip": "ToDoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T05:38:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoApi",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\ToDoApi.csproj",
+              "RelativeDocumentMoniker": "ToDoApi\\ToDoApi.csproj",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\ToDoApi.csproj",
+              "RelativeToolTip": "ToDoApi\\ToDoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T05:37:24.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
+              "RelativeToolTip": "ToDoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:24:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\WeatherForecast.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "ToDoApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:23:54.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
