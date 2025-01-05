@@ -1,75 +1,78 @@
-###################
-# compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.pdb
-*.dll.config
-*.cache
-*.suo
-# Include dlls if they’re in the NuGet packages directory
-!/packages/*/lib/*.dll
-!/packages/*/lib/*/*.dll
-# Include dlls if they're in the CommonReferences directory
-!*CommonReferences/*.dll
-####################
-# VS Upgrade stuff #
-####################
-UpgradeLog.XML
-_UpgradeReport_Files/
-###############
-# Directories #
-###############
+# Build Folders
 bin/
 obj/
-TestResults/
-###################
-# Web publish log #
-###################
-*.Publish.xml
-#############
-# Resharper #
-#############
-/_ReSharper.*
-*.ReSharper.*
-############
-# Packages #
-############
-# it’s better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
-######################
-# Logs and databases #
-######################
-*.log
-*.sqlite
-# OS generated files #
-######################
-.DS_Store?
-ehthumbs.db
-Icon?
-Thumbs.db
-[Bb]in
-[Oo]bj
-[Tt]est[Rr]esults
-*.suo
+
+# User-specific files
 *.user
-*.[Cc]ache
-*[Rr]esharper*
-packages
-NuGet.exe
-_[Ss]cripts
-*.exe
-*.dll
+*.userosscache
+*.suo
+*.userprefs
+*.psess
+
+# Logs
+*.log
+*.tlog
+*.ldf
+
+# Visual Studio files
+.vs/
+.idea/
+*.code-workspace
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Packages
 *.nupkg
-*.ncrunchsolution
-*.dot[Cc]over
+*.snupkg
+packages/
+
+# Debug/Release Configurations
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# Temporary Files
+*.tmp
+*.temp
+*.pid
+*.cache
+*.pdb
+
+# Publish output
+wwwroot/
+.publish/
+
+# Generated files
+*.designer.cs
+*.g.cs
+*.g.i.cs
+*.generated.cs
+
+# System Files
+Thumbs.db
+.DS_Store
+
+# Coverage reports
+coverage/
+*.coverlet.*
+TestResults/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tooling
+.vscode/
+*.vsconfig
+*.log
+.idea/
+
+# Secrets
+**/secrets.json
+.env
+.env.*
