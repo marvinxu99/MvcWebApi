@@ -1,4 +1,7 @@
 
+using ContosoPizza.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace ContosoPizza;
 
 public class Program
@@ -8,6 +11,10 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
+        // Add services to the container.
+        var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+        builder.Services.AddDbContext<PizzaContext>(options =>
+            options.UseNpgsql(connectionString));
 
         builder.Services.AddControllers();
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

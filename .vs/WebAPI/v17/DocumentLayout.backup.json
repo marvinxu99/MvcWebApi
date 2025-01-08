@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\contosopizza.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\contosopizza.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +34,84 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
-              "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
+              "DocumentIndex": 3,
+              "Title": "ContosoPizza.http",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\ContosoPizza.http",
+              "RelativeDocumentMoniker": "ContosoPizza\\ContosoPizza.http",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\ContosoPizza.http",
+              "RelativeToolTip": "ContosoPizza\\ContosoPizza.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-08T05:15:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\PizzaContext.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\PizzaContext.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\PizzaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:35:05.543Z",
+              "WhenOpened": "2025-01-08T05:06:49.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PizzaController.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\PizzaController.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
-              "RelativeToolTip": "ContosoPizza\\Controllers\\PizzaController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:25:27.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
               "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
               "RelativeToolTip": "ContosoPizza\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:24:19.317Z",
+              "WhenOpened": "2025-01-08T05:01:49.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Controllers\\TodoItemsController.cs",
-              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\TodoItemsController.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Controllers\\TodoItemsController.cs",
-              "RelativeToolTip": "ToDoApi\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwAoAAAApAAAAAAAAAA==",
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:22:37.442Z",
+              "WhenOpened": "2025-01-08T05:01:36.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
-              "RelativeToolTip": "ToDoApi\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:21:05.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
-              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:20:57.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TodoContext.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoContext.cs",
-              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoContext.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoContext.cs",
-              "RelativeToolTip": "ToDoApi\\Models\\TodoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:20:55.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PizzaService.cs",
               "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaService.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Services\\PizzaService.cs",
               "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaService.cs",
               "RelativeToolTip": "ContosoPizza\\Services\\PizzaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:18:41.215Z",
+              "WhenOpened": "2025-01-08T05:01:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:00:55.95Z",
               "EditorCaption": ""
             }
           ]

@@ -13,7 +13,7 @@ POST {{ContosoPizza_HostAddress}}/pizza
 Accept: application/json
 Content-Type: application/json
 {
-  "name": "Classic XXX",
+  "name": "Classic XXXWesley",
   "isGlutenFree": false
 }
 
