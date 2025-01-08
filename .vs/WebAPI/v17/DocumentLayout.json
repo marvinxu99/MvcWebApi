@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\services\\pizzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\services\\pizzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PizzaServices.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaServices.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Services\\PizzaServices.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaServices.cs",
-              "RelativeToolTip": "ContosoPizza\\Services\\PizzaServices.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:18:41.215Z",
+              "WhenOpened": "2025-01-08T04:42:13.205Z",
               "EditorCaption": ""
             }
           ]

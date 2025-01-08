@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\services\\pizzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\services\\pizzaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\contosopizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\contosopizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F9E490-E0A6-4EB5-A0B8-AAE6D7192330}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|e:\\edev\\hgw\\asp.net core\\webapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD700D45-0320-4709-8A29-5FD0FE80BECA}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +42,110 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PizzaServices.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaServices.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Services\\PizzaServices.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaServices.cs",
-              "RelativeToolTip": "ContosoPizza\\Services\\PizzaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:59:11.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContosoPizza",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\ContosoPizza.csproj",
-              "RelativeDocumentMoniker": "ContosoPizza\\ContosoPizza.csproj",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\ContosoPizza.csproj",
-              "RelativeToolTip": "ContosoPizza\\ContosoPizza.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T03:57:54.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Pizza.cs",
               "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
               "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\Pizza.cs",
               "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:57:19.592Z",
+              "WhenOpened": "2025-01-08T04:35:05.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ContosoPizza\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:49:46.191Z",
+              "WhenOpened": "2025-01-08T04:25:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
+              "RelativeToolTip": "ContosoPizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:24:19.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Models\\WeatherForecast.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Models\\WeatherForecast.cs",
-              "RelativeToolTip": "ContosoPizza\\Models\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "ToDoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:49:44.082Z",
+              "WhenOpened": "2025-01-08T04:22:37.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
-              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Program.cs",
-              "RelativeToolTip": "ContosoPizza\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Program.cs",
+              "RelativeToolTip": "ToDoApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:37:40.043Z",
+              "WhenOpened": "2025-01-08T04:21:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:20:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoContext.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:20:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Services\\PizzaService.cs",
+              "ToolTip": "E:\\eDev\\HGW\\ASP.NET Core\\WebAPI\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeToolTip": "ContosoPizza\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:18:41.215Z",
               "EditorCaption": ""
             }
           ]

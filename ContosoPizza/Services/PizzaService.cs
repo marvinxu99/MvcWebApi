@@ -2,11 +2,11 @@
 
 namespace ContosoPizza.Services;
 
-public static class PizzaServices
+public static class PizzaService
 {
     static List<Pizza> Pizzas { get; }
     static int nextId = 3;
-    static PizzaServices()
+    static PizzaService()
     {
         Pizzas =
         [
